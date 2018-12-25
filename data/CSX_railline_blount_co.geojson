@@ -1,0 +1,1274 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-10-26T17:27:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/19543130",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "KD Subdivision",
+        "note:old_railway_operator": "AK&N",
+        "old_railway_operator": "L&N",
+        "operator": "CSX",
+        "railway": "rail",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Blount, TN:Loudon, TN:McMinn, TN:Monroe, TN",
+        "tiger:name_base": "Csx Railroad:Csx Railway:Louisville and Nashville RR:Seaboard System Railroad:Southern Railway",
+        "tiger:reviewed": "no",
+        "usage": "main",
+        "@timestamp": "2015-12-05T20:32:34Z",
+        "@version": 6,
+        "@changeset": 35775772,
+        "@user": "MikeN",
+        "@uid": 135163
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.9597688,
+            35.8733032
+          ],
+          [
+            -83.9597312,
+            35.8731206
+          ],
+          [
+            -83.9597366,
+            35.8726599
+          ],
+          [
+            -83.9598493,
+            35.8721165
+          ],
+          [
+            -83.9600316,
+            35.8717035
+          ],
+          [
+            -83.9605842,
+            35.871095
+          ],
+          [
+            -83.9622632,
+            35.8697604
+          ],
+          [
+            -83.9633093,
+            35.8688084
+          ],
+          [
+            -83.9662115,
+            35.8656697
+          ],
+          [
+            -83.9669839,
+            35.8648264
+          ],
+          [
+            -83.9709482,
+            35.8605615
+          ],
+          [
+            -83.9719514,
+            35.8596616
+          ],
+          [
+            -83.9724878,
+            35.8592529
+          ],
+          [
+            -83.9727346,
+            35.8590572
+          ],
+          [
+            -83.9730404,
+            35.8588486
+          ],
+          [
+            -83.9732657,
+            35.8587051
+          ],
+          [
+            -83.9737324,
+            35.8583399
+          ],
+          [
+            -83.9740972,
+            35.8580964
+          ],
+          [
+            -83.9743958,
+            35.8578677
+          ],
+          [
+            -83.9747516,
+            35.8576051
+          ],
+          [
+            -83.9749823,
+            35.8574486
+          ],
+          [
+            -83.97539,
+            35.8571225
+          ],
+          [
+            -83.9760552,
+            35.856553
+          ],
+          [
+            -83.9774285,
+            35.8551921
+          ],
+          [
+            -83.9786623,
+            35.8536225
+          ],
+          [
+            -83.9795168,
+            35.8523123
+          ],
+          [
+            -83.9798403,
+            35.8516987
+          ],
+          [
+            -83.9801214,
+            35.8510885
+          ],
+          [
+            -83.9804915,
+            35.8498875
+          ],
+          [
+            -83.9805427,
+            35.8497562
+          ],
+          [
+            -83.9807343,
+            35.8490735
+          ],
+          [
+            -83.9808081,
+            35.8487562
+          ],
+          [
+            -83.9808563,
+            35.8482917
+          ],
+          [
+            -83.9809261,
+            35.847983
+          ],
+          [
+            -83.9809958,
+            35.8476699
+          ],
+          [
+            -83.9810494,
+            35.8471481
+          ],
+          [
+            -83.9811084,
+            35.8465742
+          ],
+          [
+            -83.981265,
+            35.844158
+          ],
+          [
+            -83.9813177,
+            35.8432172
+          ],
+          [
+            -83.9814,
+            35.842533
+          ],
+          [
+            -83.9814196,
+            35.8420779
+          ],
+          [
+            -83.9815269,
+            35.8414517
+          ],
+          [
+            -83.9818648,
+            35.8405558
+          ],
+          [
+            -83.9820687,
+            35.8402036
+          ],
+          [
+            -83.9824549,
+            35.8397383
+          ],
+          [
+            -83.9834044,
+            35.8389425
+          ],
+          [
+            -83.9844773,
+            35.8380901
+          ],
+          [
+            -83.9853517,
+            35.8374508
+          ],
+          [
+            -83.9866553,
+            35.8364462
+          ],
+          [
+            -83.9882378,
+            35.8352894
+          ],
+          [
+            -83.9919929,
+            35.8324321
+          ],
+          [
+            -83.9937256,
+            35.8311883
+          ],
+          [
+            -83.9963434,
+            35.8292137
+          ],
+          [
+            -83.9976108,
+            35.8283481
+          ],
+          [
+            -83.9994333,
+            35.8274131
+          ],
+          [
+            -84.0019278,
+            35.8262953
+          ],
+          [
+            -84.0037356,
+            35.8254036
+          ],
+          [
+            -84.0054897,
+            35.8243032
+          ],
+          [
+            -84.00623,
+            35.8237813
+          ],
+          [
+            -84.0076677,
+            35.8225373
+          ],
+          [
+            -84.0090945,
+            35.8211604
+          ]
+        ]
+      },
+      "id": "way/19543130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169236385",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "KD Subdivision",
+        "old_railway_operator": "L&N",
+        "operator": "CSX",
+        "railway": "rail",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Blount, TN:Loudon, TN:McMinn, TN:Monroe, TN",
+        "tiger:name_base": "Csx Railroad:Csx Railway:Louisville and Nashville RR:Seaboard System Railroad:Southern Railway",
+        "tiger:reviewed": "no",
+        "usage": "main",
+        "@timestamp": "2017-01-09T16:18:31Z",
+        "@version": 8,
+        "@changeset": 45029932,
+        "@user": "RoadGeek_MD99",
+        "@uid": 475877
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.0201612,
+            35.771027
+          ],
+          [
+            -84.0201829,
+            35.77079
+          ],
+          [
+            -84.020258,
+            35.7700762
+          ],
+          [
+            -84.0202741,
+            35.769493
+          ],
+          [
+            -84.0204886,
+            35.7683874
+          ],
+          [
+            -84.0208105,
+            35.7674647
+          ],
+          [
+            -84.0213952,
+            35.7664592
+          ],
+          [
+            -84.0218512,
+            35.7658106
+          ],
+          [
+            -84.0220872,
+            35.7655306
+          ],
+          [
+            -84.0223602,
+            35.7652066
+          ],
+          [
+            -84.0270171,
+            35.7600125
+          ],
+          [
+            -84.0280491,
+            35.7588772
+          ],
+          [
+            -84.0281974,
+            35.7587143
+          ],
+          [
+            -84.028884,
+            35.7579535
+          ],
+          [
+            -84.0293316,
+            35.7574468
+          ],
+          [
+            -84.0301607,
+            35.7565082
+          ],
+          [
+            -84.0310458,
+            35.7555157
+          ],
+          [
+            -84.0317003,
+            35.75478
+          ],
+          [
+            -84.0325913,
+            35.7537995
+          ],
+          [
+            -84.0358631,
+            35.7501696
+          ],
+          [
+            -84.0377873,
+            35.7480179
+          ]
+        ]
+      },
+      "id": "way/169236385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316568938",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "KD Subdivision",
+        "old_railway_operator": "L&N",
+        "operator": "CSX",
+        "railway": "rail",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Blount, TN:Loudon, TN:McMinn, TN:Monroe, TN",
+        "tiger:name_base": "Csx Railroad:Csx Railway:Louisville and Nashville RR:Seaboard System Railroad:Southern Railway",
+        "tiger:reviewed": "no",
+        "usage": "main",
+        "@timestamp": "2017-01-09T16:56:54Z",
+        "@version": 3,
+        "@changeset": 45029932,
+        "@user": "RoadGeek_MD99",
+        "@uid": 475877
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.0591945,
+            35.711388
+          ],
+          [
+            -84.05925,
+            35.7113413
+          ]
+        ]
+      },
+      "id": "way/316568938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316568939",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "KD Subdivision",
+        "old_railway_operator": "L&N",
+        "operator": "CSX",
+        "railway": "rail",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Blount, TN:Loudon, TN:McMinn, TN:Monroe, TN",
+        "tiger:name_base": "Csx Railroad:Csx Railway:Louisville and Nashville RR:Seaboard System Railroad:Southern Railway",
+        "tiger:reviewed": "no",
+        "usage": "main",
+        "@timestamp": "2017-01-09T16:56:55Z",
+        "@version": 5,
+        "@changeset": 45029932,
+        "@user": "RoadGeek_MD99",
+        "@uid": 475877
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.05925,
+            35.7113413
+          ],
+          [
+            -84.062318,
+            35.708823
+          ],
+          [
+            -84.06237,
+            35.708779
+          ],
+          [
+            -84.0631469,
+            35.7081143
+          ],
+          [
+            -84.0647208,
+            35.7068208
+          ],
+          [
+            -84.0671431,
+            35.7048256
+          ],
+          [
+            -84.0678862,
+            35.7042641
+          ],
+          [
+            -84.0693664,
+            35.7033077
+          ],
+          [
+            -84.0704428,
+            35.7027051
+          ],
+          [
+            -84.0743056,
+            35.7004784
+          ],
+          [
+            -84.0760431,
+            35.6994654
+          ],
+          [
+            -84.0809031,
+            35.6966604
+          ],
+          [
+            -84.0834618,
+            35.6951915
+          ],
+          [
+            -84.087387,
+            35.6929283
+          ],
+          [
+            -84.1026243,
+            35.6841252
+          ],
+          [
+            -84.1083169,
+            35.6808296
+          ],
+          [
+            -84.1117671,
+            35.6788528
+          ],
+          [
+            -84.1189447,
+            35.6746837
+          ],
+          [
+            -84.1204908,
+            35.6738895
+          ],
+          [
+            -84.1213531,
+            35.6734992
+          ],
+          [
+            -84.1223037,
+            35.6731222
+          ],
+          [
+            -84.1249958,
+            35.6721182
+          ],
+          [
+            -84.1295296,
+            35.6704361
+          ],
+          [
+            -84.1362943,
+            35.6679173
+          ],
+          [
+            -84.1376775,
+            35.6674054
+          ],
+          [
+            -84.1395786,
+            35.6666856
+          ],
+          [
+            -84.1429566,
+            35.6654483
+          ]
+        ]
+      },
+      "id": "way/316568939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450262400",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "KD Subdivision",
+        "old_railway_operator": "L&N",
+        "operator": "CSX",
+        "railway": "rail",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Blount, TN:Loudon, TN:McMinn, TN:Monroe, TN",
+        "tiger:name_base": "Csx Railroad:Csx Railway:Louisville and Nashville RR:Seaboard System Railroad:Southern Railway",
+        "usage": "main",
+        "@timestamp": "2016-10-30T20:37:37Z",
+        "@version": 1,
+        "@changeset": 43291654,
+        "@user": "MikeN",
+        "@uid": 135163
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.0201411,
+            35.7711913
+          ],
+          [
+            -84.0201612,
+            35.771027
+          ]
+        ]
+      },
+      "id": "way/450262400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450262401",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "KD Subdivision",
+        "old_railway_operator": "L&N",
+        "operator": "CSX",
+        "railway": "rail",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Blount, TN:Loudon, TN:McMinn, TN:Monroe, TN",
+        "tiger:name_base": "Csx Railroad:Csx Railway:Louisville and Nashville RR:Seaboard System Railroad:Southern Railway",
+        "tiger:reviewed": "no",
+        "usage": "main",
+        "@timestamp": "2016-10-30T20:37:37Z",
+        "@version": 1,
+        "@changeset": 43291654,
+        "@user": "MikeN",
+        "@uid": 135163
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.0090945,
+            35.8211604
+          ],
+          [
+            -84.0099932,
+            35.8199252
+          ],
+          [
+            -84.0103767,
+            35.8193446
+          ],
+          [
+            -84.0115032,
+            35.8176525
+          ],
+          [
+            -84.0135417,
+            35.8147597
+          ],
+          [
+            -84.0141801,
+            35.8137722
+          ],
+          [
+            -84.0145931,
+            35.8129588
+          ],
+          [
+            -84.0148345,
+            35.8120365
+          ],
+          [
+            -84.0148828,
+            35.8110055
+          ],
+          [
+            -84.0141908,
+            35.8081256
+          ],
+          [
+            -84.0125869,
+            35.8017867
+          ],
+          [
+            -84.0121523,
+            35.7998027
+          ],
+          [
+            -84.0120558,
+            35.7989456
+          ],
+          [
+            -84.0121362,
+            35.7978535
+          ],
+          [
+            -84.0129302,
+            35.7943509
+          ],
+          [
+            -84.013075,
+            35.79382
+          ],
+          [
+            -84.0133057,
+            35.792754
+          ],
+          [
+            -84.0134559,
+            35.7921448
+          ],
+          [
+            -84.0141372,
+            35.7892816
+          ],
+          [
+            -84.0144912,
+            35.787628
+          ],
+          [
+            -84.0149386,
+            35.7858624
+          ],
+          [
+            -84.0153693,
+            35.7841157
+          ],
+          [
+            -84.0162327,
+            35.780495
+          ],
+          [
+            -84.0167765,
+            35.778202
+          ],
+          [
+            -84.0168945,
+            35.7777842
+          ],
+          [
+            -84.0170447,
+            35.7774273
+          ],
+          [
+            -84.0172271,
+            35.7770617
+          ],
+          [
+            -84.0175597,
+            35.7765743
+          ],
+          [
+            -84.0192924,
+            35.7742371
+          ],
+          [
+            -84.0196558,
+            35.7735864
+          ],
+          [
+            -84.0198691,
+            35.7729869
+          ],
+          [
+            -84.0199951,
+            35.7724418
+          ],
+          [
+            -84.0200447,
+            35.77202
+          ],
+          [
+            -84.0200917,
+            35.7715822
+          ],
+          [
+            -84.0201411,
+            35.7711913
+          ]
+        ]
+      },
+      "id": "way/450262401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464753743",
+        "bridge": "yes",
+        "electrified": "no",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "KD Subdivision",
+        "old_railway_operator": "L&N",
+        "operator": "CSX",
+        "railway": "rail",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Blount, TN:Loudon, TN:McMinn, TN:Monroe, TN",
+        "tiger:name_base": "Csx Railroad:Csx Railway:Louisville and Nashville RR:Seaboard System Railroad:Southern Railway",
+        "tiger:reviewed": "no",
+        "usage": "main",
+        "@timestamp": "2017-01-09T16:18:29Z",
+        "@version": 1,
+        "@changeset": 45029932,
+        "@user": "RoadGeek_MD99",
+        "@uid": 475877
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.0377873,
+            35.7480179
+          ],
+          [
+            -84.0378536,
+            35.7479402
+          ]
+        ]
+      },
+      "id": "way/464753743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464753745",
+        "electrified": "no",
+        "gauge": "1435",
+        "name": "KD Subdivision",
+        "old_railway_operator": "L&N",
+        "operator": "CSX",
+        "railway": "rail",
+        "tiger:cfcc": "B11",
+        "tiger:county": "Blount, TN:Loudon, TN:McMinn, TN:Monroe, TN",
+        "tiger:name_base": "Csx Railroad:Csx Railway:Louisville and Nashville RR:Seaboard System Railroad:Southern Railway",
+        "tiger:reviewed": "no",
+        "usage": "main",
+        "@timestamp": "2017-01-09T16:18:30Z",
+        "@version": 1,
+        "@changeset": 45029932,
+        "@user": "RoadGeek_MD99",
+        "@uid": 475877
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.0378536,
+            35.7479402
+          ],
+          [
+            -84.040666,
+            35.744803
+          ],
+          [
+            -84.0417854,
+            35.7434604
+          ],
+          [
+            -84.0421555,
+            35.7428726
+          ],
+          [
+            -84.04246,
+            35.742247
+          ],
+          [
+            -84.0427037,
+            35.7415627
+          ],
+          [
+            -84.0427832,
+            35.7412933
+          ],
+          [
+            -84.043123,
+            35.739773
+          ],
+          [
+            -84.0440184,
+            35.7342199
+          ],
+          [
+            -84.0446296,
+            35.7305592
+          ],
+          [
+            -84.04527,
+            35.7267993
+          ],
+          [
+            -84.0452823,
+            35.7267297
+          ],
+          [
+            -84.0453766,
+            35.7261656
+          ],
+          [
+            -84.0454904,
+            35.7255565
+          ],
+          [
+            -84.0456301,
+            35.7249182
+          ],
+          [
+            -84.0457107,
+            35.7246528
+          ],
+          [
+            -84.0459527,
+            35.7239489
+          ],
+          [
+            -84.0461456,
+            35.7235117
+          ],
+          [
+            -84.0463285,
+            35.7231165
+          ],
+          [
+            -84.0465719,
+            35.7226734
+          ],
+          [
+            -84.0467289,
+            35.7224115
+          ],
+          [
+            -84.047027,
+            35.7219579
+          ],
+          [
+            -84.0474224,
+            35.7214238
+          ],
+          [
+            -84.0475933,
+            35.7212131
+          ],
+          [
+            -84.0479433,
+            35.7208273
+          ],
+          [
+            -84.0482385,
+            35.7205233
+          ],
+          [
+            -84.0486374,
+            35.7201433
+          ],
+          [
+            -84.0498197,
+            35.7191413
+          ],
+          [
+            -84.0591945,
+            35.711388
+          ]
+        ]
+      },
+      "id": "way/464753745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201756606",
+        "railway": "level_crossing",
+        "@timestamp": "2015-12-05T20:32:35Z",
+        "@version": 3,
+        "@changeset": 35775772,
+        "@user": "MikeN",
+        "@uid": 135163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9743958,
+          35.8578677
+        ]
+      },
+      "id": "node/201756606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201800050",
+        "railway": "level_crossing",
+        "@timestamp": "2016-06-18T23:28:30Z",
+        "@version": 4,
+        "@changeset": 40125447,
+        "@user": "MikeN",
+        "@uid": 135163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0280491,
+          35.7588772
+        ]
+      },
+      "id": "node/201800050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201805278",
+        "railway": "level_crossing",
+        "@timestamp": "2014-12-09T19:05:48Z",
+        "@version": 3,
+        "@changeset": 27363316,
+        "@user": "dchiles",
+        "@uid": 153669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0440184,
+          35.7342199
+        ]
+      },
+      "id": "node/201805278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201827629",
+        "railway": "level_crossing",
+        "@timestamp": "2015-12-05T20:32:35Z",
+        "@version": 3,
+        "@changeset": 35775772,
+        "@user": "MikeN",
+        "@uid": 135163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9805427,
+          35.8497562
+        ]
+      },
+      "id": "node/201827629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201891696",
+        "railway": "level_crossing",
+        "@timestamp": "2017-01-09T16:56:45Z",
+        "@version": 3,
+        "@changeset": 45029932,
+        "@user": "RoadGeek_MD99",
+        "@uid": 475877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1295296,
+          35.6704361
+        ]
+      },
+      "id": "node/201891696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201908365",
+        "railway": "level_crossing",
+        "@timestamp": "2016-11-13T02:38:27Z",
+        "@version": 4,
+        "@changeset": 43593660,
+        "@user": "MikeN",
+        "@uid": 135163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0099932,
+          35.8199252
+        ]
+      },
+      "id": "node/201908365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201908491",
+        "railway": "level_crossing",
+        "@timestamp": "2015-12-19T18:09:33Z",
+        "@version": 4,
+        "@changeset": 36051579,
+        "@user": "Peter14",
+        "@uid": 13832
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0153693,
+          35.7841157
+        ]
+      },
+      "id": "node/201908491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201908492",
+        "railway": "level_crossing",
+        "@timestamp": "2015-12-19T18:09:33Z",
+        "@version": 4,
+        "@changeset": 36051579,
+        "@user": "Peter14",
+        "@uid": 13832
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0162327,
+          35.780495
+        ]
+      },
+      "id": "node/201908492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201908684",
+        "railway": "level_crossing",
+        "@timestamp": "2017-01-09T16:56:45Z",
+        "@version": 3,
+        "@changeset": 45029932,
+        "@user": "RoadGeek_MD99",
+        "@uid": 475877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0760431,
+          35.6994654
+        ]
+      },
+      "id": "node/201908684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201908712",
+        "railway": "level_crossing",
+        "@timestamp": "2015-11-18T16:40:44Z",
+        "@version": 3,
+        "@changeset": 35411570,
+        "@user": "bbmiller",
+        "@uid": 451048
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1083169,
+          35.6808296
+        ]
+      },
+      "id": "node/201908712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/201908724",
+        "railway": "level_crossing",
+        "@timestamp": "2017-01-09T16:56:45Z",
+        "@version": 4,
+        "@changeset": 45029932,
+        "@user": "RoadGeek_MD99",
+        "@uid": 475877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1189447,
+          35.6746837
+        ]
+      },
+      "id": "node/201908724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/202907508",
+        "railway": "level_crossing",
+        "@timestamp": "2017-01-09T16:56:45Z",
+        "@version": 4,
+        "@changeset": 45029932,
+        "@user": "RoadGeek_MD99",
+        "@uid": 475877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1395786,
+          35.6666856
+        ]
+      },
+      "id": "node/202907508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3226968055",
+        "railway": "level_crossing",
+        "@timestamp": "2014-12-09T19:05:03Z",
+        "@version": 1,
+        "@changeset": 27363316,
+        "@user": "dchiles",
+        "@uid": 153669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0474224,
+          35.7214238
+        ]
+      },
+      "id": "node/3226968055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3226968242",
+        "railway": "level_crossing",
+        "@timestamp": "2014-12-09T19:05:04Z",
+        "@version": 1,
+        "@changeset": 27363316,
+        "@user": "dchiles",
+        "@uid": 153669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0452823,
+          35.7267297
+        ]
+      },
+      "id": "node/3226968242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471844793",
+        "railway": "level_crossing",
+        "@timestamp": "2016-10-30T20:37:37Z",
+        "@version": 1,
+        "@changeset": 43291654,
+        "@user": "MikeN",
+        "@uid": 135163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0220872,
+          35.7655306
+        ]
+      },
+      "id": "node/4471844793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4471844796",
+        "railway": "level_crossing",
+        "@timestamp": "2016-10-30T20:37:37Z",
+        "@version": 1,
+        "@changeset": 43291654,
+        "@user": "MikeN",
+        "@uid": 135163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0200447,
+          35.77202
+        ]
+      },
+      "id": "node/4471844796"
+    }
+  ]
+}
